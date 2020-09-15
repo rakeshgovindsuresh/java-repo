@@ -1,5 +1,5 @@
 class sample{
     public static void main(string n[]){
-        system.out.printlm("helloworld, world is great");
+        system.out.println("helloworld, world is great");
     }
 }
